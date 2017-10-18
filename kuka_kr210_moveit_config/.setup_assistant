@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: moveit_resources
+    relative_path: kuka_kr210_description/urdf/kr210l150.xacro
+  SRDF:
+    relative_path: config/kuka_kr210.srdf
+  CONFIG:
+    generated_timestamp: 1435345166
